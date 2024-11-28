@@ -38,7 +38,7 @@ h1{
     gap: 10px;
 }
  .categoria-videos img{
-      opacity: 0,5;
+      opacity: 0.5;
       height: 200px;
  }
  .categoria-videos img:hover{
